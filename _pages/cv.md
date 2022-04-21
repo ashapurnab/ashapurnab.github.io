@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](/files/Ashapurna_Bordoloi_CV.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Dowload [CV](/files/Ashapurna_Bordoloi_CV.pdf) here. 
+
 
 Education
 ======
