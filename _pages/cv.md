@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](/files/Ashapurna_Bordoloi_CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA.LLB. (Honours in Energy law), UPES, Dehradun, 2016
+* LLM. (Corporate law), WBNUJS,  Kolkata, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan- July, 2017: Research Assistant
+  * Title: Institutional and Legislative Assessment for Road Safety India-Bloomberg Initiative for Global Safety India
+  * Supervisor: Professor Vaneeta Patnaik
+  * University: WBNUJS, Kolkata
+  
+* Jan, 2018- Jul, 2019 :  Assistant Professor
+  * Alliance University
+  
   
 Skills
 ======
