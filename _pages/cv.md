@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Jan, 2018- Jul, 2019 :  Assistant Professor
-  * Alliance University
+  * University: Alliance University
   
 * Jan- July, 2017: Research Assistant
   * Title: Institutional and Legislative Assessment for Road Safety India-Bloomberg Initiative for Global Safety India
