@@ -14,8 +14,8 @@ Dowload [CV](/files/Ashapurna_Bordoloi_CV.pdf) here.
 
 Education
 ======
-- **BA.LLB.** (Honours in Energy law), UPES, Dehradun, 2016
 - **LLM.** (Corporate law), WBNUJS,  Kolkata, 2017
+- **BA.LLB.** (Honours in Energy law), UPES, Dehradun, 2016
 
 Work experience
 ======
