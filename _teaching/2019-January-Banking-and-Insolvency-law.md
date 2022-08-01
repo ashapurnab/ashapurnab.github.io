@@ -24,4 +24,8 @@ Insolvency Laws
 I covered the current scenario of the Insolvency laws in India and implementation of the Insolvency and Bankruptcy Code, 2016.
 
 
-The slides of the course can be found [here](/files/teaching/2019/Banking-and-bankruptcy.pdf). 
+The slides of the course can be found below.
+
+[Banking](/files/teaching/2019/Banking-and-bankruptcy.pdf). 
+[Insolvency](/files/teachings/2019/InsolvencyandBankruptcyCode2016.pdf)
+
