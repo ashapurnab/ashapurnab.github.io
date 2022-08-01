@@ -2,7 +2,7 @@
 title: "Banking and Insolvency Law"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-July-IOS
+permalink: /teaching/2019-January-BIL
 venue: "Alliance University, Department of law"
 date: 2019-07-01
 location: "Bengaluru, India"
