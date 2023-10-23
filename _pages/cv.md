@@ -14,6 +14,7 @@ Dowload [CV](/files/Ashapurna_Bordoloi_CV.pdf) here.
 
 Education
 ======
+- **PhD.** (Constitutional law), QMUL,  London, 2023
 - **LLM.** (Corporate law), WBNUJS,  Kolkata, 2017
 - **BA.LLB.** (Honours in Energy law), UPES, Dehradun, 2016
 
